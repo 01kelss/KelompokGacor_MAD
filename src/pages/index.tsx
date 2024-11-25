@@ -1,0 +1,12 @@
+import Splash from "./Splash";
+import Login from "./Login";
+import Register from "./Register";
+import Home from "./Home";
+import Notification from "./Notification";
+import Order from "./Order";
+import PaymentPage from "./PaymentPage";
+import Buy from "./Buy";
+import Service from "./Service";
+import Booking from "./Booking";
+import AccountProfile from "./AccountProfile";
+export {Splash, Login, Register, Home, Notification, Order, PaymentPage, Buy, Service, Booking, AccountProfile};
